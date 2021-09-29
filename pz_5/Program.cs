@@ -11,12 +11,12 @@ namespace pz_5
             Console.WriteLine("первое задание");
             for (int i = 0; i <= 60; i += 5)
             {
-                Console.WriteLine();
+                Console.WriteLine(i);
             }
             Console.WriteLine("второе задание");
             for (int j = 6; j < 5; j++) 
             {
-                Console.WriteLine(letters [j]);
+                Console.WriteLine(letters[j]);
             }
             Console.WriteLine();
 
