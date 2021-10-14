@@ -11,9 +11,6 @@ namespace pz_8
             Random rnd = new Random();
             for (i = 0; i <= 11; i = i + 1)
              Console.Write($"  {rnd.Next(-12, 12)} ");
-
-            
-
         }
     }
 }
