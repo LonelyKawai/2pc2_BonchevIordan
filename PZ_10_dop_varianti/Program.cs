@@ -4,7 +4,7 @@ namespace PZ_10_dop_varianti
 {
     using System;
 
-    namespace ConsoleApp6
+    namespace PZ_10_dop_varianti
     {
         struct WORKER
         {
