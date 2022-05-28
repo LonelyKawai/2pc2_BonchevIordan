@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pz_3_create_class", "pz_3_c
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ_9_Sobitiya", "PZ_9_Sobitiya\PZ_9_Sobitiya.csproj", "{53F172D4-508D-4058-9C74-CE7AE44A59F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ_10_dop_varianti", "PZ_10_dop_varianti\PZ_10_dop_varianti.csproj", "{465E7226-3A4B-4C77-B513-9AC51D5F6A5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ_10_dop_varianti", "PZ_10_dop_varianti\PZ_10_dop_varianti.csproj", "{465E7226-3A4B-4C77-B513-9AC51D5F6A5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ugugugug", "..\ugugugug\ugugugug\ugugugug.csproj", "{1F6E84A8-98E5-4CCB-A90C-A4744BE48E34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{465E7226-3A4B-4C77-B513-9AC51D5F6A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{465E7226-3A4B-4C77-B513-9AC51D5F6A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{465E7226-3A4B-4C77-B513-9AC51D5F6A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6E84A8-98E5-4CCB-A90C-A4744BE48E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6E84A8-98E5-4CCB-A90C-A4744BE48E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6E84A8-98E5-4CCB-A90C-A4744BE48E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6E84A8-98E5-4CCB-A90C-A4744BE48E34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
